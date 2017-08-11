@@ -1,6 +1,6 @@
 # Modify-AD-Users
 
-Modify AD Users an application used to run descrite actions against AD users.
+# Modify AD Users an application used to run descrite actions against AD users.
 
 
 Modifies AD Users in the following ways:
